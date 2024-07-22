@@ -1,3 +1,4 @@
+
 import pytest
 from buggy_code import calculate_sum
 
