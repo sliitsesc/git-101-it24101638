@@ -1,3 +1,8 @@
+
+
+def pytest(numbers):
+    print(f"The sum of the list is: {sum(numbers)}")
+
 import pytest
 from buggy_code import calculate_sum
 
